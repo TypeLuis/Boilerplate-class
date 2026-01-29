@@ -6,4 +6,6 @@
 
 - `npm i`
 
+- in `conn.js` change parameter to db name
+
 - `npm run dev`
